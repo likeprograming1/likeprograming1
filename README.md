@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Awards (Team name : [Moonlight, moonlyt, GourmetPizzo])
+## Awards (Team name : [Moonlight, Moonlyt, GourmetPizzo])
 - [Undefined Hackerhouse Tokyo [2023.08] : Undefined Award](https://www.blockmedia.co.kr/archives/345863#google_vignette)
 - [Neo APAC Hachathon Seoul GAS Station [2023.09] : AWS Prize](https://neonewstoday.com/events/four-winners-emerge-from-seoul-gas-station-magipop-and-supersquad-en-route-to-finale-in-hong-kong/)
 - [Starknet Hackathon [2024.01] : General 3rd](https://x.com/OpenBuildxyz/status/1754008550010159127)
